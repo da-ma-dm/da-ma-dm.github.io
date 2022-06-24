@@ -8,10 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Graduate Students
+<!-- PhD Students -->
 - Ricky Shuo Chen (Ph.D Candidate, co-supervised with Dr. Mirza Faisal Beg)
 - Donghuan Lu (Ph.D. co-supervised with Dr. Mirza Faisal Beg, Now at Tencent Jarvis Lab)
 - Setarah Dabiri (Ph.D. co-supervised with Dr. Mirza Faisal Beg)
-
+<!-- Master Students -->
 - Evangeline Yee (M.Sc., co-supervised with Dr. Mirza Faisal Beg)
 - Oshin Sanga (M.Sc,  co-supervised with Dr. Mirza Faisal Beg, Now at Self Care Catalysts)
 - Julian Lo (M.Sc, co-supervised with Dr. Marinko Sarunic)
