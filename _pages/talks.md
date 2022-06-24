@@ -5,19 +5,19 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Invited Talk
+## Invited Talk
 - Predicting the future onset of Alzheimer’s disease using neuroimaging and genomics through stratified multi-modal feature ensemble and deep survival analysis.  Invite Health Informatics Seminar Series at Duke University, February 2022.
 - Developing a retinal imaging tool to diagnose Alzheimer’s.  Invited speaker at The ASRP Exchange Program, Alzheimer’s Society Research Program, Canada, July 2021.
 - Quantitative analysis of Alzheimer’s disease classification and longitudinal prediction.  Invited Seminar at Shenzhen University School of Biomedical Engineering Health Science Center in Guangdong, China, June 2019.
 - Mouse brain morphometry: image processing and analysis of preclinical MRI. Invited Seminar at University of Cardiff in Welsh, UK, August 2015.
 
-# Presentations
-## Oral
+## Presentations
+### Oral
 - Ma D, Lu D, Heisler M, Dabiri S, Lee S, Ding GW, Sarunic MV, Beg MF. Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence, Medical Image with Deep Learning (MIDL) 2020 (presentation video)
 - Ma D, Lu D, Popuri K., Beg MF, Cardoso MJ, M.A. Zuluaga, M Modat, Powell N, Wiseman F, Tybulewicz V, Fisher E, Lythgoe MF, Ourselin S: Grey matter sublayer thickness estimation in the mouse cerebellum. Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2015 644-651. (presentation video)
 - Ma D, Cardoso MJ, Modat M, Powell N, H. Holmes, Lythgoe MF, and Ourselin S: Multi-atlas segmentation applied to in vivo mouse brain MRI. Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2012 Workshop on Multi-Atlas Labeling.
 
-## Poster
+### Poster
 - Ma D., Popuri K., Wang L, Lockhart S.N., Craft S, Gurcan M, Beg M.F.. Distinctive age-related longitudinal dementia progression patterns using a machine-learning-based MRI biomarker. Alzheimer's Association International Conference (AAIC) 2022
 - Mirabnahrazam, G., Ma, D., Lee, S., Popuri, K., Lee, H., & Cao, J., & Wang, L., & Galvin, J. E., & Beg, M. F.. Imaging Genetic Biomarker Development Using Machine Learning for Alzheimer's Disease Prediction. Organization for Human Brain Mapping (OHBM) 2022. 
 - Mirabnahrazam, G., Ma, D., Beaulac, C., Lee, S., Popuri, K., Lee, H., & Cao, J., & Wang, L., & Galvin, J. E., & Beg, M. F.. Deep-Learning-Based Multi-modal Survival Analysis for Alzheimer’s Disease. Organization for Human Brain Mapping (OHBM) 2022. 
