@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Da Ma" # / Digital Medicine Analytic and Computation Lab
 title_separator          : "-"
 name                     : &name "Da Ma"
-description              : &description "Assistant Professor, Wake Forest University School of Medicine"
+description              : &description "Assistant Professor,      Wake Forest University School of Medicine"
 url                      : https://da-ma-dm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dmac-lab/dmac-lab.github.io"
