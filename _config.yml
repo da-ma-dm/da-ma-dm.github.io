@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Da Ma / Digital Medicine Analytic and Computation Lab"
+title                    : "Da Ma" # / Digital Medicine Analytic and Computation Lab
 title_separator          : "-"
 name                     : &name "Da Ma"
 description              : &description "Assistant Professor, Wake Forest University School of Medicine"
