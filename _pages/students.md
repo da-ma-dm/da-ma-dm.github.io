@@ -24,7 +24,6 @@ author_profile: true
 - Cyrus Wachong (B.A.Sc (Honors), co-supervised with Dr. Marinko Sarunic)
 
 
-
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
