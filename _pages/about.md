@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Wake Forest University School of Medicine (WFUSoM), and the Principal Investigator of the / Digital Medicine Analytic and Computation Lab.
+# About Me
+
+I am an Assistant Professor at [Wake Forest University School of Medicine (WFUSoM)](https://school.wakehealth.edu/faculty/m/da-ma).
+<!-- I am the Principal Investigator of the / Digital Medicine Analytic and Computation Lab. -->
 Before joining WFUSoM, I was a Postdocctoral fellow at Simon Fraser University. 
-I obtained my Ph.D. degree in Medical and Biomedical Engineering from University College London.
+I obtained my Ph.D. degree in Medical and Biomedical Imaging from University College London, and M.Phil/B.Eng degree The University of Hong Kong.
 
 # Research Interest
 
@@ -20,6 +23,7 @@ My research interest is in the development and translation of emerging biomedica
 My specific research expertise is in computational neuroanatomy and the development of medical-imaging-based pathological biomarkers for disease prediction and prevention. My primary research interest is to derive computer-assistant diagnosis techniques that can be translated into clinical practice using data-driven, statistical, and machine-learning-based methods.
 
 I have developed several well-validated computational frameworks for studying neurodegenerative diseases on image modalities such as magnetic resonance imaging (MRI) positron emission tomography (PET), computed tomography (CT), and optical coherent tomography (OCT),   to drive the translation of quantitative computational neuroanatomy methods into both clinical environments and preclinical small animal studies.
+
 
 # Recruiting & Opportunities
 Position are openning for Postdoctoral Fellow (T32) and PhD student (F30).

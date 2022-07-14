@@ -6,19 +6,19 @@ author_profile: true
 ---
 
 ## Invited Talk
-- Predicting the future onset of Alzheimer’s disease using neuroimaging and genomics through stratified multi-modal feature ensemble and deep survival analysis.  Invite Health Informatics Seminar Series at Duke University, February 2022.
-- Developing a retinal imaging tool to diagnose Alzheimer’s.  Invited speaker at The ASRP Exchange Program, Alzheimer’s Society Research Program, Canada, July 2021.
+- Predicting the future onset of Alzheimer’s disease using neuroimaging and genomics through stratified multi-modal feature ensemble and deep survival analysis.  Invite Health Informatics Seminar Series at Duke University, February 2022. ([Talk](https://medschool.duke.edu/education/health-professions-education-programs/duke-center-health-informatics/informatics-research))
+- Developing a retinal imaging tool to diagnose Alzheimer’s.  Invited speaker at The ASRP Exchange Program, Alzheimer’s Society Research Program, Canada, July 2021. ([Talk](https://www.youtube.com/watch?v=PerJBfSsfoo))
 - Quantitative analysis of Alzheimer’s disease classification and longitudinal prediction.  Invited Seminar at Shenzhen University School of Biomedical Engineering Health Science Center in Guangdong, China, June 2019.
 - Mouse brain morphometry: image processing and analysis of preclinical MRI. Invited Seminar at University of Cardiff in Welsh, UK, August 2015.
 
 ## Presentations
 ### Oral
-- Ma D, Lu D, Heisler M, Dabiri S, Lee S, Ding GW, Sarunic MV, Beg MF. Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence, Medical Image with Deep Learning (MIDL) 2020 (presentation video)
-- Ma D, Lu D, Popuri K., Beg MF, Cardoso MJ, M.A. Zuluaga, M Modat, Powell N, Wiseman F, Tybulewicz V, Fisher E, Lythgoe MF, Ourselin S: Grey matter sublayer thickness estimation in the mouse cerebellum. Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2015 644-651. (presentation video)
+- Ma D, Lu D, Heisler M, Dabiri S, Lee S, Ding GW, Sarunic MV, Beg MF. Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence, Medical Image with Deep Learning (MIDL) 2020 ([Talk](https://youtu.be/jFMWE_-nZv0))
+- Ma D, Cardoso MJ, M.A. Zuluaga, M Modat, Powell N, Wiseman F, Tybulewicz V, Fisher E, Lythgoe MF, Ourselin S: Grey matter sublayer thickness estimation in the mouse cerebellum. Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2015 644-651. ([Talk](https://youtu.be/0jkfqt1IGRk))
 - Ma D, Cardoso MJ, Modat M, Powell N, H. Holmes, Lythgoe MF, and Ourselin S: Multi-atlas segmentation applied to in vivo mouse brain MRI. Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2012 Workshop on Multi-Atlas Labeling.
 
 ### Poster
-- Ma D., Popuri K., Wang L, Lockhart S.N., Craft S, Gurcan M, Beg M.F.. Distinctive age-related longitudinal dementia progression patterns using a machine-learning-based MRI biomarker. Alzheimer's Association International Conference (AAIC) 2022
+- Ma D., Popuri K., Wang L, Lockhart S.N., Craft S, Gurcan M, Beg M.F.. Distinctive age-related longitudinal dementia progression patterns using a machine-learning-based MRI biomarker. Alzheimer's Association International Conference (AAIC) 2022 ([ePoster](https://postercors-2.s3.amazonaws.com/aaic2022.134266db.NORMAL.pdf?AWSAccessKeyId=AKIAUZD55IF36XFKYK63&Expires=1657842287&Signature=vjlFzq9CRMtxDp2W5SUdNaWbvoQ%3D) [Presentation](https://postercors-2.s3.amazonaws.com/aaic2022.134266db.VIDEO.mp4?AWSAccessKeyId=AKIAUZD55IF36XFKYK63&Expires=1657842287&Signature=EpvluxAvDIPYPFwlv1JPP3QxyXY%3D))
 - Mirabnahrazam, G., Ma, D., Lee, S., Popuri, K., Lee, H., & Cao, J., & Wang, L., & Galvin, J. E., & Beg, M. F.. Imaging Genetic Biomarker Development Using Machine Learning for Alzheimer's Disease Prediction. Organization for Human Brain Mapping (OHBM) 2022. 
 - Mirabnahrazam, G., Ma, D., Beaulac, C., Lee, S., Popuri, K., Lee, H., & Cao, J., & Wang, L., & Galvin, J. E., & Beg, M. F.. Deep-Learning-Based Multi-modal Survival Analysis for Alzheimer’s Disease. Organization for Human Brain Mapping (OHBM) 2022. 
 - Mirabnahrazam, G., Ma, D., Beaulac, C., Lee, S., Popuri, K., Lee, H., & Cao, J., & Wang, L., & Galvin, J. E., & Beg, M. F.. Predicting Alzheimer’s disease progression in healthy and MCI subjects using multi-modal deep learning approach. submitted to the Alzheimer's Association International Conference (AAIC) 2022
@@ -33,7 +33,7 @@ author_profile: true
 - Ma D, Nagarajan R, Ratra D, Lee S, Sarunic MV, Beg MF, Accurate retinal layer segmentation, thickness estimation and fluid detection on structural and angiographic optical coherence tomography for assessment of diabetic retinopathy. EIVOC 2020
 - Ma D, Shi H, Nie Y, Beg MF, Pei J, Cao J. Using Longitudinal Functional Principle Component Analysis early prediction of Alzheimer’s type Disease. EMBEC 2020
 - Ma D, Kumar M, Heisler M, Raman R, Sarunic MV, Beg MF. Automatic Differential diagnosis of polypoidal choroidal vasculopathy (PCV) from Age-related macular degeneration (AMD) using Deep Neural Network. ARVO 2020 
--   Ma D, Popuri K, Wang L, Beg Mirza Faisal. Machine-learning-based Alzheimer's Disease dementia score using structural MRI neurodegeneration patterns-independent validation on ADNI, AIBL, OASIS and MIRIAD. Alzheimer's Association International Conference. 2020
+- Ma D, Popuri K, Wang L, Beg Mirza Faisal. Machine-learning-based Alzheimer's Disease dementia score using structural MRI neurodegeneration patterns-independent validation on ADNI, AIBL, OASIS and MIRIAD. Alzheimer's Association International Conference. 2020
 
 
 {% if site.talkmap_link == true %}
