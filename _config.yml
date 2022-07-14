@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Da Ma"
-  avatar           : "profile.jpg"
-  bio              : "Assistant Professor, Wake Forest University School of Medicine"
+  avatar           : "profile.jpg"  
+  bio              : "Assistant Professor, \nWake Forest University School of Medicine"
   location         : "Winston-Salem, NC, USA"
-  employer         : "Wake Forest University School of Medicine"
+  employer         : # "Wake Forest University School of Medicine"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/da.ma.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=5oigaVwAAAAJ&hl=en&inst=10441630620217902552"
   email            : "dma@wakehealth.edu"
