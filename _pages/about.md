@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am an Assistant Professor at [Wake Forest University School of Medicine (WFUSoM)](https://school.wakehealth.edu/faculty/m/da-ma).
 <!-- I am the Principal Investigator of the / Digital Medicine Analytic and Computation Lab. -->
 Before joining WFUSoM, I was a Postdocctoral fellow at Simon Fraser University. 
-I obtained my Ph.D. degree in Medical and Biomedical Imaging from University College London, and M.Phil/B.Eng degree The University of Hong Kong.
+I obtained my Ph.D. degree in Medical and Biomedical Imaging from University College London, and M.Phil/B.Eng degree from The University of Hong Kong.
 
 # Research Interest
 
