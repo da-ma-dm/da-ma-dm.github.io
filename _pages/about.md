@@ -22,11 +22,11 @@ My specific research expertise is in computational neuroanatomy and the developm
 
 I have developed several well-validated computational frameworks for studying neurodegenerative diseases on image modalities such as magnetic resonance imaging (MRI) positron emission tomography (PET), computed tomography (CT), and optical coherent tomography (OCT),   to drive the translation of quantitative computational neuroanatomy methods into both clinical environments and preclinical small animal studies.
 
-
 # Recruiting & Opportunities
 Position are openning for Postdoctoral Fellow (T32) and PhD student (F30).
 I am recruting highly motivated students to conduct research in area including:
 - Neuroimage genomics for Alzheimer's Disease and related Dementia using Multi-Modal Deep Learning.
+  - [Update 2022-07-15] (Please check the [Students](students) page for detailed job description for T32 Postdoctoral Fellow position)
 - Explainable AI in Biomedical and Health informatics application,
 Please send me your CV and transcript(s) if interested through [Email](mailto:dma@wakehealth.edu).
 
