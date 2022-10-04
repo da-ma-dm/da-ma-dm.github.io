@@ -9,7 +9,7 @@ author_profile: true
 
 # Recruitment
 
-## [2022-07-15] Postdoctoral Research Fellow, Neuroimaging Genomics and Metabolomic for Aging and Alzheimer's Disease
+## Postdoctoral Research Fellow, Neuroimaging Genomics and Metabolomic for Aging and Alzheimer's Disease
 
 Interested candidates: please email a cover letter, CV, and contact information for >=3 references to Dr. Da Ma (dma@wakehealth.edu). 
 
@@ -31,8 +31,15 @@ Wake Forest is a top-50 medical school  is located in Winston-Salem, NC, between
 
 To apply, please email [Dr. Da Ma](https://da-ma-dm.github.io/) (dma@wakehealth.edu) with a cover letter detailing your interest in this position , your most up-to-date curriculum vitae, and the contact information for 3 references. (Subject line: Neuroimaging genomics postdoctoral fellowship)
 
+# Graduate (PhD/MSc) position opportunities
+I am also recruting highly motivated students to conduct research in area including:
+- Computational Neuroanatomy using Graph Convolutional Network (GCN)
+- Genomic-based deep learning using Natual Language Processing (NLP) models
+- Multiomic analaysis explainable graph neural network to cluster and predict to  age-gelated biological process mechanisms.
+- Explainable AI methods to validate, understand and visualize machine learning models in 
+medical applications to facilitate clinical translation. 
 
-# Students
+# Current & Previous Students
 
 ## Graduate Students
 <!-- PhD Students -->

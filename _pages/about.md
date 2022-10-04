@@ -24,10 +24,16 @@ I have developed several well-validated computational frameworks for studying ne
 
 # Recruiting & Opportunities
 Position are openning for Postdoctoral Fellow (T32) and PhD student (F30).
-I am recruting highly motivated students to conduct research in area including:
 - Neuroimage genomics for Alzheimer's Disease and related Dementia using Multi-Modal Deep Learning.
-  - [Update 2022-07-15] (Please check the [Students](students) page for detailed job description for T32 Postdoctoral Fellow position)
-- Explainable AI in Biomedical and Health informatics application,
+
+I am also recruting highly motivated students to conduct research in area including:
+- Computational Neuroanatomy using Graph Convolutional Network (GCN)
+- Genomic-based deep learning using Natual Language Processing (NLP) models
+- Multiomic analaysis explainable graph neural network to cluster and predict to  age-gelated biological process mechanisms.
+- Explainable AI methods to validate, understand and visualize machine learning models in 
+medical applications to facilitate clinical translation. 
+
+- Please check the [Students & Opportunities](students_opportunities) page for detailed job description for Postdoctoral Fellow and graduate student positions.
 Please send me your CV and transcript(s) if interested through [Email](mailto:dma@wakehealth.edu).
 
 
