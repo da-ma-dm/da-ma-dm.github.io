@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Students"
-permalink: /students/
+title: "Students & Opportunities"
+permalink: /students_opportunities/
 author_profile: true
 ---
 
