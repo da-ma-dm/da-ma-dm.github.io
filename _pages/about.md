@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at jointly appointed by the **Virginia Tech-Wake Forest University School of Biomedical Engineering and Science (VT-WF SBMES)** and **Wake Forest University School of Medicine (WFUSoM)**, where I serve as the core faculty at **Center for Artificial Intelligence Research (CAIR)** and the Co-Leader of the **Alzheimer's Disease Research Center (ADRC)** **Data Management and Statistical Core (DMSC)**, and I am the Principal Investigator of the / Digital Medicine Analytical Lab (DMA Lab).
+I am an Assistant Professor in Artificial Intelligence and Health Informatics at jointly appointed by the **Virginia Tech-Wake Forest University School of Biomedical Engineering and Science (VT-WF SBMES)** and **Wake Forest University School of Medicine (WFUSoM)**, where I serve as the core faculty at **Center for Artificial Intelligence Research (CAIR)** and the Co-Leader of the **Alzheimer's Disease Research Center (ADRC)** **Data Management and Statistical Core (DMSC)**, and I am the Principal Investigator of the / Digital Medicine Analytical Lab (DMA Lab).
 <!-- I am the Principal Investigator of the / Digital Medicine Analytic and Computation Lab. -->
 
 Before joining VT-WF SBMES and WFUSoM, I was a Postdocctoral fellow at **Simon Fraser University (SFU)** and **University of British Columbia (UBC)**. 
@@ -16,21 +16,28 @@ I obtained my Ph.D. degree from **University College London (UCL)** Department o
 
 # Research Interest
 
-My research interest is in the development of Artificial Intelligence (AI), Machine Learning, biomedical informatics, and data science approaches to the current medical image and computational anatomy modeling in areas such as neuroimaging.
- <!-- I am interested in addressing some of the current outstanding issues that are critical for the successful translation of artificial intelligence techniques into healthcare and clinical practice. My ultimate research goal is to achieve clinical translation through the development of well-validated, interpretable, and generalizable data- and model-driven approaches for medical imaging and healthcare data.  -->
+My research lies at the intersection of artificial intelligence (AI), biomedical imaging, genomics, multi-omics biomarkers, and health informatics. My research focuses on developing multimodal, clinically explainable, and trustworthy AI solutions for aging populations at risk of neurodegeneration. My work has led to clinical applications in brain diseases such as Alzheimer's disease and related dementia, other types of neurodegeneration, as well as retinal diseases such as diabetic retinopathy, macular degeneration, and glaucoma. My research was funded by extramural research funding, including grants from the National Institutes of Health (NIA R01, P30) and the Alzheimer’s Association International Research Grant (AARG).
+
+My research centered around the following areas: 1) explainable multi-scale multi-modal AI approach for effective integration and fusion of medical imaging (MRI/PET/OCT) and multi-omics (genomic, transcriptomic, proteomic) data to achieve precision diagnosis, risk stratification, disease prevention; 2) self-supervised and generative AI methods to disentangle disease heterogeneity for differential diagnosis of subtypes; 3) large-scale multi-site multi-modal medical imaging data harmonizing, domain adaptation, and clinical evaluation to achieve generalizable and trustworthy AI; as well as 4) Spatial temporal deep learning for monitoring disease progression and intervention/treatment response. His work has led to the development and translation of various computational biomarkers and intervention targets.
+
+
+
+ <!-- My research interest is in the development of Artificial Intelligence (AI), Machine Learning, biomedical informatics, and data science approaches to the current medical image and computational anatomy modeling in areas such as neuroimaging.
+I am interested in addressing some of the current outstanding issues that are critical for the successful translation of artificial intelligence techniques into healthcare and clinical practice. My ultimate research goal is to achieve clinical translation through the development of well-validated, interpretable, and generalizable data- and model-driven approaches for medical imaging and healthcare data.
 
 My specific research expertise is in computational neuroanatomy and the development of medical-imaging-based pathological biomarkers for disease prediction and prevention. My primary research interest is to derive computer-assistant diagnosis techniques that can be translated into clinical practice using data-driven, statistical, and machine-learning-based methods.
 
-I have developed several well-validated computational frameworks for studying neurodegenerative diseases on image modalities such as magnetic resonance imaging (MRI) positron emission tomography (PET), computed tomography (CT), and optical coherent tomography (OCT),   to drive the translation of quantitative computational neuroanatomy methods into both clinical environments and preclinical small animal studies.
+I have developed several well-validated computational frameworks for studying neurodegenerative diseases on image modalities such as magnetic resonance imaging (MRI) positron emission tomography (PET), computed tomography (CT), and optical coherent tomography (OCT),   to drive the translation of quantitative computational neuroanatomy methods into both clinical environments and preclinical small animal studies.  -->
 
 # Recruiting & Opportunities
 Position are openning for Postdoctoral Fellow (T32) and PhD student (F30).
 - Neuroimage genomics for Alzheimer's Disease and related Dementia using Multi-Modal Deep Learning.
 
 I am also recruting highly motivated students to conduct research in area including:
+- Multi-modal foundational model for neuroimaging and multi-modal medical data;
 - Computational Neuroanatomy using Graph Convolutional Network (GCN)
 - Genomic-based deep learning using Natual Language Processing (NLP) models
-- Multiomic analaysis explainable graph neural network to cluster and predict to  age-gelated biological process mechanisms.
+- Multiomic analaysis explainable neural network to cluster and predict to  age-gelated biological process mechanisms.
 - Explainable AI methods to validate, understand and visualize machine learning models in 
 medical applications to facilitate clinical translation. 
 
