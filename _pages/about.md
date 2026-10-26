@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at **Wake Forest University School of Medicine (WFUSoM)** jointly appointed by the **Virginia Tech-Wake Forest University School of Biomedical Engeering and Science**.
+I am an Assistant Professor at jointly appointed by the **Virginia Tech-Wake Forest University School of Biomedical Engineering and Science (VT-WF SBMES)** and **Wake Forest University School of Medicine (WFUSoM)**, where I serve as the core faculty at **Center for Artificial Intelligence Research (CAIR)** and the Co-Leader of the **Alzheimer's Disease Research Center (ADRC)** **Data Management and Statistical Core (DMSC)**, and I am the Principal Investigator of the / Digital Medicine Analytical Lab (DMA Lab).
 <!-- I am the Principal Investigator of the / Digital Medicine Analytic and Computation Lab. -->
-Before joining WFUSoM, I was a Postdocctoral fellow at Simon Fraser University. 
-I obtained my Ph.D. degree in Medical and Biomedical Imaging from University College London, and M.Phil/B.Eng degree from The University of Hong Kong.
+
+Before joining VT-WF SBMES and WFUSoM, I was a Postdocctoral fellow at **Simon Fraser University (SFU)** and **University of British Columbia (UBC)**. 
+I obtained my Ph.D. degree from **University College London (UCL)** Department of Medical Physics and Biomedical Engineering, and **M.Phil/B.Eng degree from The University of Hong Kong (HKU)**.
 
 # Research Interest
 
-My research interest is in the development and translation of emerging biomedical informatics and machine-learning and AI-driven approaches to the current medical image and computational anatomy modeling in areas such as neuroimaging.
+My research interest is in the development of Artificial Intelligence (AI), Machine Learning, biomedical informatics, and data science approaches to the current medical image and computational anatomy modeling in areas such as neuroimaging.
  <!-- I am interested in addressing some of the current outstanding issues that are critical for the successful translation of artificial intelligence techniques into healthcare and clinical practice. My ultimate research goal is to achieve clinical translation through the development of well-validated, interpretable, and generalizable data- and model-driven approaches for medical imaging and healthcare data.  -->
 
 My specific research expertise is in computational neuroanatomy and the development of medical-imaging-based pathological biomarkers for disease prediction and prevention. My primary research interest is to derive computer-assistant diagnosis techniques that can be translated into clinical practice using data-driven, statistical, and machine-learning-based methods.
