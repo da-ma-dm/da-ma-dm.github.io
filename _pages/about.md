@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Artificial Intelligence and Health Informatics at jointly appointed by the **Virginia Tech-Wake Forest University School of Biomedical Engineering and Science (VT-WF SBMES)** and **Wake Forest University School of Medicine (WFUSoM)**, where I serve as the core faculty at **Center for Artificial Intelligence Research (CAIR)** and the Co-Leader of the **Alzheimer's Disease Research Center (ADRC)** **Data Management and Statistical Core (DMSC)**, and I am the Principal Investigator of the / Digital Medicine Analytical Lab (DMA Lab).
-<!-- I am the Principal Investigator of the / Digital Medicine Analytic and Computation Lab. -->
+I am an Assistant Professor in Artificial Intelligence and Health Informatics at jointly appointed by the **Virginia Tech-Wake Forest University School of Biomedical Engineering and Science (VT-WF SBMES) and Wake Forest University School of Medicine (WFUSoM), where I serve as the core faculty at Center for Artificial Intelligence Research (CAIR) and the Co-Leader of the Alzheimer's Disease Research Center (ADRC) Data Management and Statistical Core (DMSC), and I am the Principal Investigator of the / Digital Medicine Analytical Lab (DMA Lab).
 
-Before joining VT-WF SBMES and WFUSoM, I was a Postdocctoral fellow at **Simon Fraser University (SFU)** and **University of British Columbia (UBC)**. 
-I obtained my Ph.D. degree from **University College London (UCL)** Department of Medical Physics and Biomedical Engineering, and **M.Phil/B.Eng degree from The University of Hong Kong (HKU)**.
+Before joining VT-WF SBMES and WFUSoM, I was a Postdocctoral fellow at Simon Fraser University (SFU) and University of British Columbia (UBC). 
+I obtained my Ph.D. degree from University College London (UCL) Department of Medical Physics and Biomedical Engineering, and **M.Phil/B.Eng degree from The University of Hong Kong (HKU).
 
 # Research Interest
 
